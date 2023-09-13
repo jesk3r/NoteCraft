@@ -35,7 +35,7 @@ Follow these steps to get a copy of NoteHub up and running on your local machine
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/notehub.git
+   git clone https://github.com/jesk3r/NoteCraft
 
 2. Install dependanceies:
 
