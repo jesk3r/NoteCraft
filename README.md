@@ -1,6 +1,5 @@
 # NoteHub - A Simple Note-Taking Web Application
 
-![NoteHub Logo](link-to-your-logo.png)
 
 NoteHub is a lightweight web application that allows users to create, edit, and organize notes online. It's built using JavaScript for the front-end and Express.js for the server, providing a seamless note-taking experience for users.
 
@@ -19,6 +18,13 @@ Follow these steps to get a copy of NoteHub up and running on your local machine
 
 - Node.js and npm should be installed on your system.
 
+### File Structure  
+
+- server.js : where the server code and logic is writen 
+- /public: Where the html,css, and javascript for the websites are
+- /routes: API route code for comunicating with the program
+- /helper: javascirpt utility code for writing and saving a file
+
 
 ### Deployment  
 
@@ -31,3 +37,12 @@ Follow these steps to get a copy of NoteHub up and running on your local machine
    ```bash
    git clone https://github.com/your-username/notehub.git
 
+2. Install dependanceies:
+
+   ```bash
+   npm install
+
+3. Run the program :
+
+   ```bash
+   npm start
