@@ -19,6 +19,11 @@ Follow these steps to get a copy of NoteHub up and running on your local machine
 
 - Node.js and npm should be installed on your system.
 
+
+### Deployment  
+
+- Heroku Link: https://hidden-brook-97356-4bbc0739c8bd.herokuapp.com
+
 ### Installation
 
 1. Clone the repository:
